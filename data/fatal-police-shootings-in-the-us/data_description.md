@@ -1,4 +1,4 @@
-#FatalPoliceShootingUS.csv
+# FatalPoliceShootingUS.csv
 Souce: https://github.com/washingtonpost/data-police-shootings
 This dataset contains record about fatal police shooting in the United States collected by the Washington Post from January 2015 to July 2017
 
